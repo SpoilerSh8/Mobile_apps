@@ -1,0 +1,1 @@
+ /Users/spoiler/Downloads/Mobile_apps/Mobile_apps/dudal/.dart_tool/flutter_build/0181940944d29059c48186e64c2c347e/native_assets.yaml: 

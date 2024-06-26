@@ -1,0 +1,87 @@
+name: dudal
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  accordion: ^2.6.0
+  flutter:
+    sdk: flutter
+  syncfusion_flutter_pdfviewer: ^25.2.5
+ 
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - Logos/om.png 
+    - Logos/paypal.png
+    - Logos/uba.png
+    - Logos/wave.png
+    - Logos/Audio_Book.png
+    - Logos/islamP.png
+    - Logos/quranBook.png
+    - Gallery/Cerno Aliu Thiam.png
+    - Gallery/Aliou Sow.png
+    - Gallery/Cerno Amadu Bah .png
+    - Gallery/Cerno Bachir Tall.png
+    - Gallery/Cerno Hamidou Sy.png
+    - Gallery/Cerno Madani Tall.png 
+    - Gallery/Cerno Mansur Barro .png
+    - Gallery/Cerno Yaya Bah Rirchard Toll.png
+    - Gallery/Cerno Yerro Banne.png
+    - Gallery/Cheiikh Oumar FoutiYou.png
+    - Gallery/Thierno-Seydou Nourou Tall.png
+    - Gallery/ThiernoCheik-Barro.png
+    - Bio/Aliou Sow.png
+    - Bio/Aliou thiam.png
+    - Bio/hamidou.png
+    - Bio/AmadouBah.png
+    - Bio/Chft.png
+    - Bio/Thsn.png
+    - Bio/Thcba.png
+    - Bio/ThYb.png
+    - Bio/thyybR.png
+    - Bio/Madani.png
+    - Bio/Manb.png
+    - Bio/Bachir.png
+    - Coran/JUZ 1.pdf
+    - Coran/JUZ 2.pdf
+    - Coran/JUZ 3.pdf
+    - Coran/JUZ 4.pdf
+    - Coran/JUZ 5.pdf
+    - Coran/JUZ 6.pdf
+    - Coran/JUZ 7.pdf
+    - Coran/JUZ 8.pdf
+    - Coran/JUZ 9.pdf
+    - Coran/JUZ 10.pdf
+    - Coran/JUZ 11.pdf
+    - Coran/JUZ 12.pdf
+    - Coran/JUZ 13.pdf
+    - Coran/JUZ 14.pdf
+    - Coran/JUZ 15.pdf
+    - Coran/JUZ 16.pdf
+    - Coran/JUZ 17.pdf
+    - Coran/JUZ 18.pdf
+    - Coran/JUZ 19.pdf
+    - Coran/JUZ 20.pdf
+    - Coran/JUZ 21.pdf
+    - Coran/JUZ 22.pdf
+    - Coran/JUZ 23.pdf
+    - Coran/JUZ 24.pdf
+    - Coran/JUZ 25.pdf
+    - Coran/JUZ 26.pdf
+    - Coran/JUZ 27.pdf
+    - Coran/JUZ 28.pdf
+    - Coran/JUZ 29.pdf
+    - Coran/JUZ 30.pdf
